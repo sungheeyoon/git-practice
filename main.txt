@@ -1,2 +1,2 @@
 Title: Git practice
-Subtitle: How are you // are you happy?
+Subtitle: How am i
