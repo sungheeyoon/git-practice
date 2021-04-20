@@ -1,3 +1,3 @@
-# Git for Everyon!
+# Git for Everyone!
 
 This works!
