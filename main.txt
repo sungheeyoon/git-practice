@@ -1,4 +1,10 @@
 Title: Git practice
+<<<<<<< HEAD
 Subtitle: How are you
 
 happy ending
+=======
+Subtitle: How am i
+
+happy ending
+>>>>>>> main
